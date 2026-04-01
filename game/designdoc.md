@@ -113,7 +113,7 @@ Must have:
 Nice to have:
 - Card flip and reveal animations
 - Enemy "thinking" pause before placement
-- Win/loss fanfare
+- Win/loss fanfare and music
 
 Cut if needed:
 - Cascade flips - resolve only immediate neighbors if time is tight
